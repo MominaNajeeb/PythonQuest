@@ -1,0 +1,31 @@
+Question ,Answer
+Question1: What keyword is used to define a function in Python? || A. func || B. define || C. def || D. function ,c
+Question2: How do you start a single-line comment in Python? || A. // || B. -- || C. # || D. <!-- ,c
+Question3:  What is the output of `print(2 + 3)` in Python? || A. 23 || B. 5 || C. 2 + 3 || D. Error ,b
+Question4: Which function is used to get user input in Python? || A. read() || B. input() || C. scan() || D. get() ,b
+Question5: What data type is used to represent a sequence of characters in Python? || A. str || B. list || C. int || D. char ,a
+Question6: What keyword is used to create a new variable in Python? || A. create || B. var || C. let || D. None (just use assignment) ,d
+Question7: How do you create a list in Python? || A. list() || B. [] || C. () || D. {} ,b
+Question8: Which Python keyword is used to start a conditional statement? || A. loop || B. if || C. switch || D. while ,b
+Question9: How do you access the first element of a list `my_list`? || A. my_list.first() || B. my_list[0] || C. my_list[1] || D. first(my_list) ,b
+Question10: What symbol is used for exponentiation in Python? || A. ^ || B. ** || C. % || D. // ,b
+Question1: What will the following code print: `print(type(5.0))`? || A. <class 'int'> || B. <class 'float'> || C. <class 'str'> || D. <class 'double'> ,b
+Question2: How do you define a class in Python? || A. class MyClass: || B. define MyClass: || C. MyClass: || D. create class MyClass ,a
+Question3: What is the output of `print(3 * 'Python')`? || A. PythonPythonPython || B. Python 3 times || C. 3Python || D. Error ,a
+Question4: How do you handle exceptions in Python? || A. using catch || B. using try and except || C. using handle || D. using error ,b
+Question5: What method is used to add an item to a list in Python? || A. add() || B. insert() || C. append() || D. push() ,c
+Question6: What will the following code snippet return: `len('Hello')`? || A. 4 || B. 5 || C. 'Hello' || D. 6 ,b
+Question7: How do you concatenate two strings in Python? || A. merge() || B. concat() || C. + || D. append() ,c
+Question8: What is the result of `5 // 2` in Python? || A. 2.5 || B. 3 || C. 2 || D. 2.0 ,c
+Question9: How do you import a module in Python? || A. import module_name || B. include module_name || C. use module_name || D. require module_name ,a
+Question10: What function would you use to convert a string '123' into an integer? || A. int() || B. str() || C. convert() || D. to_int() ,a
+Question1: How do you create a dictionary in Python? || A. dict() || B. {} || C. [] || D. set() ,b
+Question2: What is a lambda function in Python? || A. Named function || B. Anonymous function || C. Recursive function || D. Built-in function ,b
+Question3: What will the following code print: `print([x^2 for x in range(5)])`? || "A. [0; 1; 4; 9; 16]" || "B. [1; 4; 9; 16]" || "C. [0; 1; 4; 9] || D. [0; 1; 2; 3; 4]" ,a
+Question4: How do you define a generator in Python? || A. using return || B. using yield || C. using generate || D. using lambda ,b
+Question5: What is the difference between `==` and `is` in Python? || A. `==` checks for value equality; `is` checks for type || B. `==` checks for type; `is` checks for value equality || C. `==` checks for value equality; `is` checks for object identity || D. `==` checks for object identity; `is` checks for value equality ,c
+Question6: How do you create a virtual environment in Python? || A. python -m create myenv || B. python -m virtualenv myenv || C. python -m venv myenv || D. python -m environment myenv ,c
+Question7: What method is used to remove whitespace from the beginning and end of a string? || A. trim() || B. strip() || C. clean() || D. remove() ,b
+Question8: How do you define a method that accepts an arbitrary number of arguments? || A. Using **kwargs || B. Using *args || C. Using args || D. Using ...args ,b
+Question9: What does the `__init__` method do in a Python class? || A. Initializes the class || B. Initializes a newly created object || C. Creates a new class || D. Defines class attributes ,b
+Question10: How do you read a file line by line in Python? || A. file.read() || B. file.readlines() || C. for line in file: || D. file.scan() ,c
