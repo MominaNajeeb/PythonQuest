@@ -19,7 +19,7 @@ def easy_level():
         for row in reader:
             if count_easy<10:
                 split_and_print(row[0])
-                question = input("Your answer: ")
+                question = (input("Your answer: ")).lower()
                 if question == row[1]:
                     print("Your answer is correct! ✅\n", "You earned 2 points! 🎉")
                     score += 2
@@ -62,7 +62,7 @@ def medium_level():
         for row in reader:
             if count_medium>10 and count_medium<21:
                 split_and_print(row[0])
-                question = input("Your answer: ")
+                question = (input("Your answer: ")).lower()
                 if question == row[1]:
                     print("Your answer is correct! ✅\n", "You earned 2 points! 🎉")
                     score += 2
@@ -105,7 +105,7 @@ def hard_level():
         for row in reader:
             if count_hard>20 and count_hard<31:
                 split_and_print(row[0])
-                question = input("Your answer: ")
+                question = (input("Your answer: ")).lower()
                 if question == row[1]:
                     print("Your answer is correct! ✅\n", "You earned 2 points! 🎉")
                     score += 2
